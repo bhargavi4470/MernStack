@@ -45,5 +45,3 @@ PORT=5000
 MONGO_URI=<your-mongodb-connection-string>
 JWT_SECRET=<your-jwt-secret>
 ```
-
-Screenshot 2025-08-08 224224.png
